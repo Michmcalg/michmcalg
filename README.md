@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineering Student | Building things that work.<br>Future backend developer.
+Software Engineering Student | Uh.
 
 
 # 💻 Tech Stack:
